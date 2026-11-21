@@ -1,6 +1,6 @@
-# Hi, I'm Tom
+# Hi, I'm Tomm
 
-I'm Tommy Wijaya (Tom), 22, a crypto hunter and builder from Indonesia.
+I'm Tommy Wijaya (Tomm), 22, a crypto hunter and builder from Indonesia.
 
 ## What I build
 
