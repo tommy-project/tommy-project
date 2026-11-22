@@ -8,6 +8,10 @@ I'm Tommy Wijaya (Tomm), 22, a crypto hunter and builder from Indonesia.
 - **Crypto hunter** — airdrops, testnets, and meme-coin trading on Base and Solana.
 - **Learning smart-contract auditing** — Foundry, Ethernaut, Damn Vulnerable DeFi, CodeHawks.
 
+## Projects
+
+- [github-core-clone-01](https://github.com/tommy-project/github-core-clone-01) — a GitHub-compatible git forge in one Node process: git smart HTTP, REST v3, GraphQL and MCP, dependency-free (make.fun entry, 120/120 local conformance checks).
+
 ## Find me
 
 - X: [@tommz44](https://x.com/tommz44)
